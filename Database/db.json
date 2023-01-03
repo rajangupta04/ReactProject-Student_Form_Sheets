@@ -1,0 +1,59 @@
+{
+  "StudentDetails": [
+    {
+      "stdName": "Rajan Gupta",
+      "gender": "Male",
+      "dob": "1995-01-04T16:26",
+      "contact": "9876543210",
+      "email": "guptarajan04@gmail.com",
+      "id": 1
+    },
+    {
+      "stdName": "Abhishek Ranjan",
+      "gender": "Male",
+      "dob": "1996-11-30T21:59",
+      "contact": "9999999999",
+      "email": "fghjkl@gmail.com",
+      "id": 2
+    },
+    {
+      "stdName": "Niranjan",
+      "gender": "Male",
+      "dob": "1999-12-28T22:59",
+      "contact": "6767676767",
+      "email": "asdfghj@dfghjk",
+      "id": 3
+    },
+    {
+      "stdName": "abcdefg",
+      "gender": "Female",
+      "contact": "8888888888",
+      "email": "aabbcc@gmail.com",
+      "id": 4
+    },
+    {
+      "stdName": "anmol",
+      "gender": "",
+      "dob": "",
+      "contact": "",
+      "email": "",
+      "id": 5
+    },
+    {
+      "stdName": "",
+      "gender": "",
+      "dob": "",
+      "contact": "",
+      "email": "",
+      "id": 6
+    },
+    {
+      "stdName": "Niranjan Gupta",
+      "gender": "",
+      "dob": "",
+      "contact": "",
+      "email": "",
+      "id": 7
+    }
+  ]
+}
